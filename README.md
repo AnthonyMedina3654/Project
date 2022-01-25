@@ -1,9 +1,9 @@
 # Project
 
 * [Project CAD](#Project_CAD)
-* [Vectorized Image Code](#VectorizedImageCode)
-* [Stepper Motor Code](#StepperMotorCode)
-* [Potentiometer Code](#PotentiometerCode)
+* [Vectorized Image Code](#Vectorized_Image_Code)
+* [Stepper Motor Code](#Stepper_Motor_Code)
+* [Potentiometer Code](#Potentiometer_Code)
 ---
 
 ## Project_CAD
