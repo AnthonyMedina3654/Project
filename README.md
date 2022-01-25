@@ -17,7 +17,7 @@
 ### Images
 ---
 
-## Vectorized Image Code
+## Vectorized_Image_Code
 
 ### Description
 
@@ -28,7 +28,7 @@
 ### Images
 ---
 
-## Stepper Motor Code
+## Stepper_Motor_Code
 
 ### Description
 
@@ -39,7 +39,7 @@
 ### Images
 ---
 
-## Potentiometer Code
+## Potentiometer_Code
 
 ### Description
 
