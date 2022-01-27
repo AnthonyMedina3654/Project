@@ -48,6 +48,8 @@ STEPS = 5 000
 # the following code to use your chosen pins.
 
 # To use with CircuitPython and a microcontroller:
+```python
+Code goes here
 coils = (
     digitalio.DigitalInOut(board.D4),  # A1
     digitalio.DigitalInOut(board.D5),  # A2
@@ -101,8 +103,9 @@ for step in range(STEPS):
     motor.onestep(direction=stepper.BACKWARD, style=stepper.INTERLEAVE)
     motor2.onestep(direction=stepper.BACKWARD, style=stepper.INTERLEAVE)
     time.sleep(DELAY)
-
 motor.release()
+
+```
 
 ### Reflection
 
