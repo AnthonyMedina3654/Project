@@ -10,7 +10,9 @@
 
 ### Description
 
+digital representation of our project, put together our mechanical arm digitaly. 
 ### Evidence
+
 
 ### Reflection
 
