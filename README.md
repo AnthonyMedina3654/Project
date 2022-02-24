@@ -16,6 +16,7 @@ digital representation of our project, put together our mechanical arm digitaly.
 
 ### Reflection
 
+we had a lot of procrastination issues. the rail system in the assembly needed a slider mate, and 
 ### Images
 ---
 
