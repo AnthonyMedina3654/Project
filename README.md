@@ -23,7 +23,7 @@ we had a lot of procrastination issues. the rail system in the assembly needed a
 ## Vectorized_Image_Code
 
 ### Description
-
+the code to shift pixels of an image into coordinates on a plane. 
 ### Evidence
 
 ### Reflection
