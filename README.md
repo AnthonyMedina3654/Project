@@ -99,13 +99,13 @@ for step in range(STEPS):
     motor2.onestep(direction=stepper.BACKWARD, style=stepper.INTERLEAVE)
     time.sleep(DELAY)
 motor.release()
-
 ```
+
 
 ### Reflection
 
 ### Images
----
+
 
 ## Potentiometer_Code
 
@@ -116,7 +116,7 @@ motor.release()
 ### Reflection
 
 ### Images
----
+
 
 # You can use any available GPIO pin on both a microcontroller and a Raspberry Pi.
 # The following pins are simply a suggestion. If you use different pins, update
@@ -124,4 +124,4 @@ motor.release()
 
 # To use with CircuitPython and a microcontroller:
 
-Code goes here
+
