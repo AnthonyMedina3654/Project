@@ -44,7 +44,7 @@ import board
 import digitalio
 from adafruit_motor import stepper
 
-DELAY = 0.02
+DELAY = 0.0
 STEPS = 5 000
 
 Code goes here
