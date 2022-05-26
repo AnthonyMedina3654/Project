@@ -34,7 +34,7 @@ It was very difficult to find any sample code on transfering pixels into coordin
 ## Stepper_Motor_Code
 
 ### Description
-
+Code that will allow us to move two stepper motors together to form movement in any direction on a plane so we would be able to control the pencil for drawing.
 ### Evidence
 
 ```python
