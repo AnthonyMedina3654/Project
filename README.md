@@ -16,7 +16,7 @@ digital representation of our project, put together our mechanical arm digitaly.
 
 ### Reflection
 
-Graham- We had a lot of procrastination issues. Due to the complexity of the project it would have been much easier if each group member did their assigned work to complete in time. The code was probably the worst of it because not a sinlg eperson knew anything about it and it wasnt very prominent when we did research about it. Researching and creating code for the potentiometer would have helped a lot however since that did not get completed we were handicapped for the other section involving the wiring of two stepper motors. The onshape design was the part we worked the most on and it is the closest to completion with minimal problems that could be solved relativly quickly. Lesson for next time pick partners not based on comfort but on work ethic and mentality. 
+Graham- We had a lot of procrastination issues. Due to the complexity of the project it would have been much easier if each group member did their assigned work to complete in time. The code was probably the worst of it because not a single person knew anything about it and it wasnt very prominent when we did research about it. Researching and creating code for the potentiometer would have helped a lot however since that did not get completed we were handicapped for the other section involving the wiring of two stepper motors. The onshape design was the part we worked the most on and it is the closest to completion with minimal problems that could be solved relativly quickly. Lesson for next time pick partners not based on comfort but on work ethic and mentality. 
 ### Images
 ---
 
