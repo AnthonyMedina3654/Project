@@ -27,7 +27,7 @@ the code to shift pixels of an image into coordinates on a plane.
 ### Evidence
 
 ### Reflection
-
+It was very difficult to find any sample code on transfering pixels into coordinates and plugging them into Mu because no one knew a lot about g code and there wasnt anything on google about it.
 ### Images
 ---
 
@@ -106,7 +106,7 @@ motor.release()
 ```
 
 ### Reflection
-
+There were some hiccups but overall it was straight forward. Getting the first one to work was easy but getting two to work in sync was a pain in the ass because there were many factors to take in including wiring issues and issues with the code that looked insignificant but could be overlooked very easily.
 
 '''python
 
