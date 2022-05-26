@@ -17,6 +17,8 @@ digital representation of our project, put together our mechanical arm digitaly.
 ### Reflection
 
 Graham- We had a lot of procrastination issues. Due to the complexity of the project it would have been much easier if each group member did their assigned work to complete in time. The code was probably the worst of it because not a single person knew anything about it and it wasnt very prominent when we did research about it. Researching and creating code for the potentiometer would have helped a lot however since that did not get completed we were handicapped for the other section involving the wiring of two stepper motors. The onshape design was the part we worked the most on and it is the closest to completion with minimal problems that could be solved relativly quickly. Lesson for next time pick partners not based on comfort but on work ethic and mentality. 
+
+Anthony: As Graham said, many procrastination issues, on everyones part but mostly me and Finn. The potentiometer code and wiring was pretty much impossible to find, and no one really knew how to start from scratch. thats why i dove into the cad, to at least be somewhat useful. I do feel that I could've done a lot more however. I did what i could on the CAD though, so i was at least a little useful. i also was the main that did the project planning. 
 ### Images
 ---
 
